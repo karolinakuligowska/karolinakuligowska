@@ -1,5 +1,5 @@
-### Hi, I'm Karolina Kuligowska!
-👋
+## Hi, I'm Karolina Kuligowska!
+[GitHub](https://github.com) 👋
 
 <!--
 **kuligowska.com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
