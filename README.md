@@ -1,4 +1,4 @@
-### Hi, I'm Karolina! _hi_
+### Hi, I'm Karolina! 💬
 I research, teach, publish 
 & I move forward in a purposeful way 
 
