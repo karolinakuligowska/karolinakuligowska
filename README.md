@@ -1,5 +1,5 @@
-### Hi, I'm Karolina Kuligowska!
-Welcome on my personal website: [kuligowska.com](https://kuligowska.com) ✨
+### Hi, I'm Karolina!
+Check my personal website: [kuligowska.com](https://kuligowska.com) ✨
 
 <!--
 this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
