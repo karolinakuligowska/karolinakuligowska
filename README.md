@@ -1,5 +1,8 @@
 ### Hi, I'm Karolina!
-Check my personal website: [kuligowska.com](https://kuligowska.com) ✨
+I research, teach, publish 
+& I move forward in a purposeful way 
+
+Welcome to my personal website: [kuligowska.com](https://kuligowska.com) ✨
 
 <!--
 this is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
