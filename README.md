@@ -1,6 +1,6 @@
 ### Hi, I'm Karolina! 💬
 I research, teach, publish 
-& I move forward in a purposeful way :electron:
+& I move forward in a purposeful way 🗒️
 
 Welcome to my personal website: [kuligowska.com](http://kuligowska.com) ✨
 
